@@ -47,16 +47,33 @@ Arbeit in 3 Teams, Zwischenzeugnis auf Anfrage
 
 | Zeitraum  | Tätigkeit | Institution |
 | ------------- | ------- | ------------- |
-| 10/2022 – heute  | [Master of Data Science](#Bachelor-of-Computer-Science)  | Universität Leipzig, Leipzig |
+| 10/2022 – heute  | [Master of Data Science](#Master -Data-Science)  | Universität Leipzig, Leipzig |
 | 10/2016 – 09/2019  | [Bachelor of Computer Science](#Bachelor-of-Computer-Science)  | University of Malta, Malta |
 | 2008 – 2016  | Abitur  | Rudolf-Hildebrand-Schule, Markkleeberg |
 | 2013  | mehrmonatiger Schüleraustausch | Lycée Freppel, Frankreich |
 
+### Master Data Science
+
+Den Master habe ich im Oktober 2021 angefangen, als Masterarbeit möchte ich etwas mit Reinforcement Learning machen. Siehe [interessen.md](./interessen.md)
+
+Bisher belegte Module
+* Wintersemester 2021
+    * Skalierbare Datenbanktechnologien 1
+    * Grundlagen der Parallelverarbeitung
+    * Graphen und biologische Netze
+* Sommersemester 2022
+    * Big Data Praktikum
+    * Multivariate Datenanalyse und Data Mining
+    * Grundlagen Komplexer Systeme (S)
+    * Skalierbare Datenbanktechnologien 2
 
 ### Bachelor of Computer Science
 
-* Fachrichtung: Künstliche Intelligenz und  Softwareentwicklung
-* Titel der Abschlussarbeit: Inflection of Maltese using Neural	Networks
+Fachrichtung: 
+* Künstliche Intelligenz und  Softwareentwicklung
+
+Titel der Abschlussarbeit: 
+* Inflection of Maltese using Neural	Networks
 
 ## IT-Kenntnisse
 
