@@ -59,7 +59,7 @@ Tätigkeit als DevOps Engineer
 
 ### Master Data Science
 
-Den Master habe ich im Oktober 2021 angefangen, als Masterarbeit möchte ich etwas mit Reinforcement Learning machen. Siehe [interessen.md](./interessen.md)
+Den Master habe ich im Oktober 2021 angefangen, als Masterarbeit möchte ich etwas mit Reinforcement Learning machen. Siehe [Interessen](./interessen.md)
 
 Bisher belegte Module
 * Wintersemester 2021
