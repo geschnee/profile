@@ -21,6 +21,7 @@
 
 Arbeit in 3 Teams, Zwischenzeugnis auf Anfrage
 
+Tätigkeit als java Entwickler
 * internes Jira Team 
 	* Plugin Entwicklung mit Java
 * Kundenprojekt 1:
@@ -28,10 +29,14 @@ Arbeit in 3 Teams, Zwischenzeugnis auf Anfrage
 	* SQL
 	* JavaScript Ember Frontend
 	* Java RCP
+
+Tätigkeit als DevOps Engineer
 * Kundenprojekt 2:
-	* Automatisierung mit Ansible
-	* IBM Software
+	* Automatisierung mit Ansible und Jenkins
+	* IBM DB2
+    * IBM WAS
 	* Docker
+    * Git, SVN, Nexus und mehr
 		
 
 ### LEIPZIG-LAB by VISIT e.V.
@@ -81,6 +86,7 @@ Titel der Abschlussarbeit:
 * Ansible, Jenkins
 * Java
 * DB2 SQL
+* IBM WAS
 * Docker
 * C# und Unity GameEngine
 
