@@ -52,7 +52,7 @@ Tätigkeit als DevOps Engineer
 
 | Zeitraum  | Tätigkeit | Institution |
 | ------------- | ------- | ------------- |
-| 10/2022 – heute  | [Master of Data Science](#Master -Data-Science)  | Universität Leipzig, Leipzig |
+| 10/2022 – heute  | [Master of Data Science](#Master-Data-Science)  | Universität Leipzig, Leipzig |
 | 10/2016 – 09/2019  | [Bachelor of Computer Science](#Bachelor-of-Computer-Science)  | University of Malta, Malta |
 | 2008 – 2016  | Abitur  | Rudolf-Hildebrand-Schule, Markkleeberg |
 | 2013  | mehrmonatiger Schüleraustausch | Lycée Freppel, Frankreich |
